@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byfalic&label=Profile%20views&color=64339c&style=flat" alt="byfalic" /> </p>
 
-<p align="left"> <a href="https://discord.gg/KCYGRYaHan" target="blank"> <img src="https://img.shields.io/discord/1097171565877149776?color=purple&logo=discord&label=Join my Discord&style=for-the-badge&logoColor=fff" alt="join my discord"> </p>
+<p align="left"> <a href="https://discord.gg/aqyKUNyCnk" target="blank"> <img src="https://img.shields.io/discord/1097489600219447328?color=purple&logo=discord&label=Join my Discord&style=for-the-badge&logoColor=fff" alt="join my discord"> </p>
 
 - 🔭 I’m currently working on [**SOON**](https://www.youtube.com/@DerEchteOliverLP)
 
